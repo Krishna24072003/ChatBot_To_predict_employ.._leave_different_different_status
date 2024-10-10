@@ -85,6 +85,4 @@ Sphinx ChatBot is an interactive chatbot designed to assist users in applying fo
 
 **Exiting the Chatbot**: Users can terminate the session by entering "exit" or "quit," and the bot will respond with a farewell message.
 
----
 
-Feel free to ask if you need more details or specific aspects highlighted!
